@@ -14,4 +14,4 @@ Hangman_game.ipynb
 * If the user enters right character the program will replace underscore with this character and display the word with underscores and this character all in order
 * If enter wrong character it will let the user know that is a wrong character.
 * If the user gets all characters right the program will let him know that he won and ask him if he wants to play again.
-* If he didnot get the word with available chances he has.the program will let him that he consumed all chances(With displaying the word) and ask him if he wants to play again.
+* If he didnot get the word with available chances he has. The program will let him that he consumed all chances(With displaying the word) and ask him if he wants to play again.
