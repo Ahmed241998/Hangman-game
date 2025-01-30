@@ -2,7 +2,6 @@ import random
 import requests
 import json
 import streamlit as st
-pip freeze
 def inputs () :
     """
     Choose which fruit the game will be about
